@@ -9,9 +9,9 @@
         <key>PayloadIdentifier</key>
         <string>nt.nb.ios</string>
         <key>PayloadType</key>
-        <string>com.apple.application-identifier</string>
+        <string>Configuration</string> <!-- Use 'Configuration' for mobileconfig profiles -->
         <key>PayloadUUID</key>
-        <string>UUID-FOR-APP</string>
+        <string>7d29b856-f323-4d31-9f9c-4220eaaafd26</string>
         <key>PayloadVersion</key>
         <integer>1</integer>
         <key>PayloadContent</key>
